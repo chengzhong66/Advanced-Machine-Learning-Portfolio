@@ -4,5 +4,5 @@ This portfolio includes three machine learning projects I conducted in Spring 20
 
 --Portfolio Notebook ipynb <br>
 ----subfolder/ Project 1: Predict World Happiness Rankings <br>
-----subfolder/ Project 1: Predict World Happiness Rankings <br>
+----subfolder/ Project 2 - Predict Covid Positivity from X-Ray Image <br>
 ----subfolder/ Project 3: Predict Covid Tweets Misinformation <br>
